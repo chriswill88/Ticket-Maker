@@ -1,8 +1,5 @@
 # Ticket Maker: A project I created to increase my productivity doing tickets at my chat specialist job
 
-### Author
-Christian Williams
-
 # About
 
 I started working my job @PointPickup November 23 2020.
@@ -54,3 +51,6 @@ For now you can only use this in your terminal!
 ![execute](photos/execute.png)
 
 ![welcome](photos/welcome-screen.png)
+
+### Author
+Christian Williams
