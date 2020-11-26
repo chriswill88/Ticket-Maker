@@ -1,4 +1,4 @@
-# Ticket Maker: Productivity tool doing tickets for chat support
+# Ticket Maker: Productivity Tool Doing Tickets for Chat Support
 ![ticket](photos/ticket.gif)
 
 
