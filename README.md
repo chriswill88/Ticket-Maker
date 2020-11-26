@@ -1,6 +1,8 @@
 # Ticket Maker: Productivity Tool for Creating Tickets for Chat Support
-![ticket](photos/ticket.gif)
-
+<!-- ![ticket](photos/ticket.gif) -->
+<p align="center">
+    <img src="photos/ticket.gif">
+</p>
 
 # About
 
