@@ -22,7 +22,10 @@ After my third shift I made the display part of the program and completed versio
 
 Personalizes the ticket you create to the issue.
 
-This program can deal with many issues!
+This program can deal with many issues:
+
+Driver Reimbursment, Bug report, Driver Block, Order, Store, and more!
+
 
 ![issues](photos/issues.png)
 ![questions1](photos/questions1.png)
