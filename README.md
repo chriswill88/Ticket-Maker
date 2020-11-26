@@ -1,5 +1,8 @@
 # Ticket Maker: A project I created to increase my productivity doing tickets at my chat specialist job
 
+### Author
+Christian Williams
+
 # About
 
 I started working my job @PointPickup November 23 2020.
