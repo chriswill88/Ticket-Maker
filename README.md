@@ -38,6 +38,7 @@ Driver Reimbursment, Bug report, Driver Block, Order, Store, and more!
 
 Displays the created tickets in a preview so you'll know exactly how to make your ticket!
 ![Display](photos/Display.png)
+
 &nbsp;
 &nbsp;
 
