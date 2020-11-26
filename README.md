@@ -1,4 +1,6 @@
 # Ticket Maker: A project I created to increase my productivity doing tickets at my chat specialist job
+![ticket](photos/ticket.gif)
+
 
 # About
 
