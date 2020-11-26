@@ -42,6 +42,10 @@ Displays the created tickets in a preview so you'll know exactly how to make you
 For now you can only use this in your terminal!
 
 1. Clone the repo
+
+![Clone](photos/gitclone.png)
+
+
 2. Make the file executable
 
 ![executable](photos/executable.png)
