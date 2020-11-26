@@ -6,13 +6,13 @@ I started working my job @PointPickup November 23 2020.
 
 During my first day I noticed I was having a problem with how to speedily saving from my chats for my tickets while managing my chats at the same time.
 
-So like any true problem solving software engineer I had to do something about it!
+So like any **true problem solving software engineer** I had to do something about it!
 
-During my second day 2 hours before I started my second shift i started this project and I was able to comeplete the ticket creator portion of the program.
+During my second day **2 hours** before I started my second shift i started this project and I was able to comeplete the ticket creator portion of the program.
 
-During the third day I emplemented the program into my shift and I was able to lower the time it took me too write down tickets to **15 minutes from 1 hour**.
+During the third day I emplemented the program into my shift and I was able to lower the time it took me too write down tickets from **1 hour to 15 minutes**.
 
-After my third shift I made the display part of the program and completed version 1 and now were here!
+After my third shift I made the display part of the program and completed version 1 and now we're here!
 &nbsp;
 &nbsp;
 
