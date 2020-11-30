@@ -8,7 +8,7 @@
 
 I started working my job @PointPickup November 23 2020.
 
-During my first day I noticed I was having a problem with how to speedily saving from my chats for my tickets while managing my chats at the same time.
+During my first day I noticed I was having a problem with how to speedily save information from my chats for my tickets while managing my chats at the same time.
 
 So like any **true problem solving software engineer** I had to do something about it!
 
